@@ -1,0 +1,31 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+.note{
+    font-size: 15px;
+    color: #78787a;
+}
+button{
+    width: 150px;
+    font-size: 25px;
+}
+img{
+    width: 200px;
+    border-radius: 100px;
+}
+#speed{
+    float: left;
+}
+#volume{
+    float: right;
+}
+canvas{
+    border:5px solid #3c1fcc;
+    border-radius: 20px;
+    margin: 20px;
+}
